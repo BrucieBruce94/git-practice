@@ -5,12 +5,12 @@ height: 500px;
 background-position: center;
 }
 
-h1{
+.jumbotron h1{
     font-size: 700%;
      text-align: center;
 }
 
-p{
+.jumbotron p{
     font-size: 400%; 
      text-align: center;
 }
