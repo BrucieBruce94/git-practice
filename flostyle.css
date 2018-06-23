@@ -1,0 +1,34 @@
+.jumbotron {
+background-image: url("https://bit.ly/2Ih5b8S");
+background-size: cover;
+height: 500px;
+background-position: center;
+}
+
+h1{
+    font-size: 700%;
+     text-align: center;
+}
+
+p{
+    font-size: 400%; 
+     text-align: center;
+}
+
+.backgroundone {
+ background-color: #f7f8f9; 
+ background-size: cover; 
+  margin-bottom: 20px;
+ 
+}
+
+.backgroundtwo {
+    background-color: #f7f8f9; 
+    background-size: cover;
+    padding-right:20%;
+    padding-left:20%;
+}
+
+.container-fluid {
+    height: 400px;
+}
